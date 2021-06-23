@@ -47,7 +47,7 @@ automatically processed according to the architecture below.
   gcloud functions list
   ```
 
-## Using
+## Usage
 
 * source your envars file:
   ```
@@ -66,6 +66,12 @@ automatically processed according to the architecture below.
   `$VIDEO_OUT_BKT` in a subdirectory and the unzipped JSON sample file will be
   ingested into Firestore.
 
+## Cleanup
+
+* run `cleanup.sh`
+  ```
+  ./cleanup.sh
+  ```
 
 ## Issues
 
