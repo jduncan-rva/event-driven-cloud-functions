@@ -1,0 +1,15 @@
+{
+  "event": {
+    "deviceID": "1600APMVCA",
+    "metadata": {
+      "location": "Moncks Corner Clinic",
+      "firmware": "v1.0.1",
+      "model": "BenderV4"
+    },
+    "duration": 1852,
+    "videoFile": "1600APMVCA-01.mp4",
+    "sensor1": 12.7,
+    "sensor2": 0,
+    "battery": 85
+  }
+}

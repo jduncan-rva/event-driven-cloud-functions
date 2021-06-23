@@ -1,0 +1,10 @@
+export PROJECT_ID=$(gcloud config get-value project)
+export REGION=us-central1
+export DATA_IN_BKT=data_in_1234
+export DATA_OUT_BKT=data_out_1234
+export VIDEO_IN_BKT=video_in_1234
+export VIDEO_OUT_BKT=video_out_1234
+export VIDEO_FUNC=video_transcode 
+export DECOMPRESS_FUNC=event_decompressor
+export INGEST_FUNC=firestore_ingest
+export SA_KEY=cloudfunctions.json

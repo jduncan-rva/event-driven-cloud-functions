@@ -1,0 +1,8 @@
+google
+google-auth
+google-api-python-client
+google-auth-oauthlib 
+google-auth-httplib2
+apache-beam[gcp]==2.29.0
+google-cloud-firestore
+google-cloud-storage
